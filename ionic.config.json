@@ -1,0 +1,7 @@
+{
+  "name": "IonicAndFirebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
